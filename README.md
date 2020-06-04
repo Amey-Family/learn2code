@@ -1,6 +1,5 @@
 ## Welcome to learn2code
 
-***
 
 ### learn2code was set up to teach young ones how to code.
 
